@@ -2,5 +2,8 @@
   "dependencies": {
     "browser-sync": "^2.27.11",
     "npm": "^9.2.0"
+  },
+  "scripts": {
+    "start-browser-sync": "browser-sync start --server --directory --files \"*\""
   }
 }

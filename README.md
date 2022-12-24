@@ -9,4 +9,4 @@ Coursera - HTML, CSS, and Javascript for Web Developers
 3) Run `npm install` in root directory
 
 ### Development
-Start `browser-sync` tracking: `browser-sync start --server --directory --files "*"`
+`npm start-browser-sync`
